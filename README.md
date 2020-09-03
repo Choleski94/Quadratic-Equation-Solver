@@ -1,6 +1,6 @@
 # Quadratic equation solver
 
-A simple script written in JavaScript linked to a web interface for facilitated quadratic equations resolution.
+A simple script written in JavaScript aiming facilitated quadratic equations resolution.
 
 ## Prerequisities
 

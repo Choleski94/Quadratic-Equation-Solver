@@ -1,4 +1,4 @@
-# Quadratic Equation Solver
+# Quadratic equation solver
 
 A simple script written in JavaScript linked to a web interface for facilitated quadratic equations resolution.
 
